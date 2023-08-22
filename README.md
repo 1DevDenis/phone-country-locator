@@ -6,6 +6,8 @@ Application to determine the country by phone number
 
 mvn clean package
 
+sql script in resources/sql
+
 ## Application launch
 
 java -jar target/phone-country-locator-0.0.1-SNAPSHOT.jar
