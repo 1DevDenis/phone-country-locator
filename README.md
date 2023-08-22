@@ -1,3 +1,3 @@
-# phone-country-locator
+# Phone country locator
 
 Application to determine the country by phone number
