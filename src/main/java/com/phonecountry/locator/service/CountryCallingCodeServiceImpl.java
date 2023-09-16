@@ -1,7 +1,7 @@
-package com.phoneсountry.locator.service;
+package com.phonecountry.locator.service;
 
-import com.phoneсountry.locator.exception.CountryNotFoundException;
-import com.phoneсountry.locator.repository.CountryCallingCodeRepository;
+import com.phonecountry.locator.exception.CountryNotFoundException;
+import com.phonecountry.locator.repository.CountryCallingCodeRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

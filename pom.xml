@@ -79,7 +79,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<!-- here we specify that we want to use the main method within the App class -->
-							<mainClass>com.phoneсountry.locator.PhoneCountryLocatorApplication</mainClass>
+							<mainClass>com.phonecountry.locator.PhoneCountryLocatorApplication</mainClass>
 						</manifest>
 					</archive>
 				</configuration>

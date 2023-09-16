@@ -1,6 +1,6 @@
-package com.phoneсountry.locator.repository;
+package com.phonecountry.locator.repository;
 
-import com.phoneсountry.locator.model.CountryCallingCodeEntity;
+import com.phonecountry.locator.model.CountryCallingCodeEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

@@ -1,6 +1,6 @@
-package com.phoneсountry.locator.controller;
+package com.phonecountry.locator.controller;
 
-import com.phoneсountry.locator.service.CountryCallingCodeService;
+import com.phonecountry.locator.service.CountryCallingCodeService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

@@ -1,4 +1,4 @@
-package com.phoneсountry.locator.service;
+package com.phonecountry.locator.service;
 
 public interface CountryCallingCodeService {
 

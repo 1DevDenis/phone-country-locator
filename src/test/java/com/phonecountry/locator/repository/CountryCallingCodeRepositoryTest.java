@@ -1,6 +1,6 @@
-package com.phoneсountry.locator.repository;
+package com.phonecountry.locator.repository;
 
-import com.phoneсountry.locator.model.CountryCallingCodeEntity;
+import com.phonecountry.locator.model.CountryCallingCodeEntity;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

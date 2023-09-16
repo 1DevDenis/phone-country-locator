@@ -1,6 +1,6 @@
-package com.phoneсountry.locator.controller;
+package com.phonecountry.locator.controller;
 
-import com.phoneсountry.locator.service.CountryCallingCodeService;
+import com.phonecountry.locator.service.CountryCallingCodeService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

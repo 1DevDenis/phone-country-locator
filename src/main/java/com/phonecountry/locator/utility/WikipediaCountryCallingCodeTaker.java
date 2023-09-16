@@ -1,9 +1,9 @@
-package com.phoneсountry.locator.utility;
+package com.phonecountry.locator.utility;
 
-import com.phoneсountry.locator.exception.CanNotCreateConnectionException;
-import com.phoneсountry.locator.exception.RowsNotFoundException;
-import com.phoneсountry.locator.model.CountryCallingCodeEntity;
-import com.phoneсountry.locator.repository.CountryCallingCodeRepository;
+import com.phonecountry.locator.exception.CanNotCreateConnectionException;
+import com.phonecountry.locator.exception.RowsNotFoundException;
+import com.phonecountry.locator.model.CountryCallingCodeEntity;
+import com.phonecountry.locator.repository.CountryCallingCodeRepository;
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
 import org.jsoup.Jsoup;
